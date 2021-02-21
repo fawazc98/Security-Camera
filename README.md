@@ -9,3 +9,9 @@ In order to make a functioning camera, the project uses Raspberry Pi 4 and the P
 Below are some of the screenshots to show a high level overview of it:
 
 <img width="893" alt="Screen Shot 2021-02-20 at 8 04 01 PM" src="https://user-images.githubusercontent.com/40875745/108616685-8bbaee00-73c4-11eb-9c52-964d66016389.png">
+
+
+<img width="863" alt="Screen Shot 2021-02-20 at 8 03 43 PM" src="https://user-images.githubusercontent.com/40875745/108616699-b9a03280-73c4-11eb-88c8-eda5baf6601f.png">
+
+
+<img width="1382" alt="Screen Shot 2021-02-20 at 7 55 22 PM" src="https://user-images.githubusercontent.com/40875745/108616701-bc028c80-73c4-11eb-8439-a20c1e632e32.png">
