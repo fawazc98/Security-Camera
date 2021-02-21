@@ -7,3 +7,5 @@ Use of Raspberry Pi 4 and Picamera:
 In order to make a functioning camera, the project uses Raspberry Pi 4 and the Picamera extension for it to work. The Python script is used in conjunction with Raspberry Pi upon booting it up.
 
 Below are some of the screenshots to show a high level overview of it:
+
+<img width="893" alt="Screen Shot 2021-02-20 at 8 04 01 PM" src="https://user-images.githubusercontent.com/40875745/108616685-8bbaee00-73c4-11eb-9c52-964d66016389.png">
