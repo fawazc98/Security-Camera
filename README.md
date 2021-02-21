@@ -11,6 +11,7 @@ In order to make a functioning camera, the project uses Raspberry Pi 4 and the P
 Future Plans:
 
 -Able to send alert emails to your gmail account when motion is detected.
+
 -A video clip is attached next to the time stamp graph in order to view the motion at x time.
 
 
